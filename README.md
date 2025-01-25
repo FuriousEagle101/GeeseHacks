@@ -1,6 +1,6 @@
-# GeeseHacks 2025
+# GlowUp
 
-Sponsored by Sun Life Financial, created by Luke, Paul, and Leo.
+Our fun project for GeeseHacks 2025, sponsored by Sun Life Financial, created by Luke, Paul, and Leo.
 
 ## Big Question
 How can we effectively target these new potential clients to ensure increases in capture rates and loyalty while also providing value to this new demographic?
@@ -9,7 +9,7 @@ How can we effectively target these new potential clients to ensure increases in
 As younger generations begin to exert their spending potential, capturing this expanding market segment is crucial for long-term success.
 
 ## Recommendation
-Lorem Ipsum
+A personal finance app developed for Gen Z.
 
 ## Decision Criteria
 1. Aligns with the company mission and upholds brand image.
