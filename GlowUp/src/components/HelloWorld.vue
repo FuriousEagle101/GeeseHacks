@@ -11,7 +11,7 @@ defineProps({
   <div class="greetings">
     <h1 class="green">{{ msg }}</h1>
     <h3>
-      The personal finance app designed by Gen Z, for Gen Z
+      The personal finance app designed by Gen Z, for Gen Z.
     </h3>
   </div>
 </template>
